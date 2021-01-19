@@ -4,25 +4,6 @@ Website of the Open Source Design community, hosted on GitHub Pages.
 
 [![Backers on Open Collective](https://opencollective.com/opensourcedesign/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/opensourcedesign/sponsors/badge.svg)](#sponsors) [![Twitter Follow](https://img.shields.io/twitter/follow/opensrcdesign?style=social)](https://twitter.com/opensrcdesign)
 
-## Edit Website
-
-Editing content on [opensourcedesign.net][osd-net] can be done in two ways, both of which, require a GitHub account.
-
-1. Using GitHub's nifty file editor
-
-![GitHub file tools](images/github-file-tools.png)
-
-2. Modifying source code (technical)
-
-## Code & Design The Website
-
-You need some basic ability to use a terminal as well as some knowledge of web
-development like HTML, CSS, and JavaScript. The site is built with the following
-programming tools:
-
-- [Jekyll][jekyll]
-- [Bootstrap][bootstrap]
-
 ### Installing
 
 This step requires having a `ruby` development environment and `git` installed

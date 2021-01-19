@@ -62,41 +62,6 @@ in there proper place to build our website locally.
 bundler exec jekyll serve --watch --config _config.yml,_config-dev.yml
 ```
 
-### Updating
-
-Updating the various repositories can be done by running this script
-
-```sh
-./scripts/update.sh
-```
-
-[osd-net]: http://opensourcedesign.net
-[osd-org]: https://github.com/opensourcedesign/
-[jekyll]: https://jekyllrb.com
-[bootstrap]: https://getbootstrap.com
-[installing-ruby]: https://www.ruby-lang.org/en/documentation/installation/
-[github-ssh]: https://help.github.com/articles/connecting-to-github-with-ssh/
-
-
-## 👩‍🚀 Contributors, backers & sponsors
-
-This project exists thanks to all the **people who contribute**.
-<a href="graphs/contributors"><img src="https://opencollective.com/opensourcedesign/contributors.svg?width=890&button=false" /></a>
-
-Thank you to **all our backers**! 🙏 ([Become a backer](https://opencollective.com/opensourcedesign#backer))
-
-<a href="https://opencollective.com/opensourcedesign#backers" target="_blank"><img src="https://opencollective.com/opensourcedesign/backers.svg?width=890"></a>
-
-**Support this project by becoming a sponsor.** ([Become a sponsor](https://opencollective.com/opensourcedesign#sponsor))
-
-<a href="https://opencollective.com/opensourcedesign/sponsor/0/website" target="_blank"><img src="https://opencollective.com/opensourcedesign/sponsor/0/avatar.svg"></a>
-
-
-## ♥ Code of Conduct
-
-Please note that Open Source Design has a [Contributor Code of Conduct](https://opensourcedesign.net/code-of-conduct/). By participating in this project online or at events you agree to abide by its terms.
-
-
 ## 📜 License
 
 **🔀 You can use & modify everything as long as you credit [Open Source Design](https://opensourcedesign.net) and use the same license for your resulting work.** [Code license is AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html) and content is [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/).
